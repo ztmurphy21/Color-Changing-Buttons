@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/ColorChangingButtons/nbproject/private/
+/ColorChangingButtons/build/
+/ColorChangingButtons/dist/
